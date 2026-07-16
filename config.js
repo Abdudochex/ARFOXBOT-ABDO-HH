@@ -9,7 +9,7 @@ global.Carousel = Carousel;
 global.AIRich = AIRich;
 
 // ضع هنا الرقم المخصص لربط البوت (Pairing Code) إذا كنت تستخدمه
-global.pairingNumber = 212621790049; 
+global.pairingNumber = 212610591087; 
 
 global.owner = [
   ['212610591087', 'ABDENNACER CHAKIR', true],
