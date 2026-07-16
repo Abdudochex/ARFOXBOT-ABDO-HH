@@ -9,11 +9,11 @@ global.Carousel = Carousel;
 global.AIRich = AIRich;
 
 // ضع هنا الرقم المخصص لربط البوت (Pairing Code) إذا كنت تستخدمه
-global.pairingNumber = 212694744866; 
+global.pairingNumber = 212621790049; 
 
 global.owner = [
   ['212610591087', 'ABDENNACER CHAKIR', true],
-  ['212694744866', 'ARFOXBOT STREAM', true], // تم إدراج اسمك ورقمك هنا كمالك أساسي للبوت
+  ['212621790049', 'ARFOXBOT STREAM', true], // تم إدراج اسمك ورقمك هنا كمالك أساسي للبوت
 ];
 
 global.namebot = 'ARFOXBOT STREAM'; // تم تعديل اسم البوت هنا
